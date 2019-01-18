@@ -1,5 +1,5 @@
 
-| SSD BRAND     | NAND | 128GB  | 256GB  | 500GB  | 1TB  | Source | warrany | Amazon Review sort by negative |
+| SSD BRAND     | NAND | 128GB  | 256GB  | 500GB  | 1TB  | Source | warrany | Review-sort-by-negative |
 | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:| -----:|
 | `Adata SSD Ultimate SU900` | 3D TLC |  100TBW |  200TBW  |  400TBW  |  800TBW  | [PDF](https://www.adata.com/upload/downloadfile/Datasheet_SU900_EN_20170710.pdf) | 5-years  | [*----](https://www.amazon.com/ADATA-SU900-Ultimate-Internal-Solid/product-reviews/B01N5JJ7H9/ref=cm_cr_arp_d_viewopt_sr?ie=UTF8&filterByStar=critical&reviewerType=all_reviews&pageNumber=1#reviews-filter-bar) |
 | `Samsung SSD 860 EVO`      | 3D TLC |  --- |  150TBW  |  300TBW  |  1,200TBW  | [HTML](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/860evo/) | 5-years | [*----](https://www.amazon.com/Samsung-500GB-Internal-MZ-76E500B-AM/product-reviews/B0781Z7Y3S/ref=cm_cr_arp_d_viewopt_sr?ie=UTF8&filterByStar=critical&reviewerType=all_reviews&pageNumber=1#reviews-filter-bar) |
