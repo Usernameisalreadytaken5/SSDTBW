@@ -15,11 +15,17 @@
 | `SanDisk SSD Plus` | TLC |  40TWB?*1 | *1 |  *1 | *1  | [HTML](http://webcache.googleusercontent.com/search?client=firefox-b&q=cache%3Ahttps%3A%2F%2Fus.hardware.info%2Fproduct%2F417369%2Fsandisk-ssd-plus-tlc-120gb%2Fspecifications) | _3-years_  |-- |
 | `WD Green SSD` | 3D NAND |  40TB| 80TBW |  -- | --  | [HTML](https://www.wd.com/content/dam/wdc/website/downloadable_assets/eng/spec_data_sheet/2879-800083.pdf) | _3-years_  |-- |
 
-
-
 *1 - hard to find even on: [official forum](https://forums.sandisk.com/t5/SanDisk-SSD-Plus/TBW/td-p/367680) :: type this in google to get some spec include TBW `cache:https://us.hardware.info/product/417369/sandisk-ssd-plus-tlc-120gb/specifications`
 
+## To Read
+[The SSD Endurance Experiment 2015](https://techreport.com/review/27909/the-ssd-endurance-experiment-theyre-all-dead/2)
+
+[SSD Endurance Test: BX200 2018](https://www.reddit.com/r/hardware/comments/6jk9j9/ssd_endurance_test_bx200_dead_after_187tb_850_pro/)
+
+[Endurance Test of Samsung 850 Pro](https://www.guru3d.com/news-story/endurance-test-of-samsung-850-pro-comes-to-an-end-after-9100tb-of-writes.html)
+
 # Todo with new SSD
+- upgrade firmware (Highly recommend backing up all data before initiating the firmware upgrade)
 - Download [Discmark](http://crystalmark.info/en/download/#h2) and write test data 32GiB some of them crash afert write some data to disk, you do this at your own risk.
 - Download [discinfo](http://crystalmark.info/en/download/) and monitor "Total NAND Write" some SSD has only "Total Host write"
 - You can monitor SSD life with [SSD life](http://ssd-life.com/eng/download-ssdlife.html)
