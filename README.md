@@ -13,6 +13,7 @@
 | `Crucial BX500` | 3D NAND |  40TBW |  80TBW  |  120TBW | 240 TBW  | [HTML](https://www.crucial.com/usa/en/storage-ssd-comparison) | _3-years_  |-- |
 | `Kingston A400 SSD ` | TLC | 40TBW  | 80TBW   | 160TBW   |  300TBW  | [PDF](https://www.kingston.com/datasheets/SA400S37_us.pdf) | _3-years_  |-- |
 | `SanDisk SSD Plus` | TLC |  40TWB?*1 | *1 |  *1 | *1  | [HTML](http://webcache.googleusercontent.com/search?client=firefox-b&q=cache%3Ahttps%3A%2F%2Fus.hardware.info%2Fproduct%2F417369%2Fsandisk-ssd-plus-tlc-120gb%2Fspecifications) | _3-years_  |-- |
+| `WD Green SSD` | 3D NAND |  40TB| 80TBW |  -- | --  | [HTML](http://www.hye.co.il/Uploads/Products/Files/54/1157be64.pdf) | _3-years_  |-- |
 
 
 
