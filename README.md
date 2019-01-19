@@ -17,10 +17,10 @@
 
 *1 - hard to find even on: [official forum](https://forums.sandisk.com/t5/SanDisk-SSD-Plus/TBW/td-p/367680) :: type this in google to get some spec include TBW `cache:https://us.hardware.info/product/417369/sandisk-ssd-plus-tlc-120gb/specifications`
 
-## To Read
+## To-Read
 [The SSD Endurance Experiment 2015](https://techreport.com/review/27909/the-ssd-endurance-experiment-theyre-all-dead/2)
 
-[SSD Endurance Test: BX200 2018](https://www.reddit.com/r/hardware/comments/6jk9j9/ssd_endurance_test_bx200_dead_after_187tb_850_pro/)
+[SSD Endurance Test 2018 - first comment](https://www.reddit.com/r/hardware/comments/6jk9j9/ssd_endurance_test_bx200_dead_after_187tb_850_pro/)
 
 [Endurance Test of Samsung 850 Pro](https://www.guru3d.com/news-story/endurance-test-of-samsung-850-pro-comes-to-an-end-after-9100tb-of-writes.html)
 
