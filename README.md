@@ -31,7 +31,7 @@
 This is my 3 years Crucial on Windows 7
 - disabled swap, hibernation
 - Firefox cache on RamDisk 300MB
-- half os space free, download dir on SD card, games ond other big files on HDD
+- half os space free, download dir on SD card, games and other big files on HDD
 
 ![SSD LIFE my](https://github.com/Usernameisalreadytaken5/SSDTWB/blob/master/SSDLIFE.png)
 
