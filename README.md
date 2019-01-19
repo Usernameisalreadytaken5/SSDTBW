@@ -16,8 +16,18 @@
 
 *1 - hard to find even on: [official forum](https://forums.sandisk.com/t5/SanDisk-SSD-Plus/TBW/td-p/367680) :: type this in google to get some spec include TBW `cache:https://us.hardware.info/product/417369/sandisk-ssd-plus-tlc-120gb/specifications`
 
+# To do with new SSD
+- Download [Discmark](http://crystalmark.info/en/download/#h2) and write test data 32GiB some of them crash afert write some data to disk
+- Download [discinfo](http://crystalmark.info/en/download/) and monitor "Total NAND Write" some SSD has only "Total Host write"
+- You can monitor SSD live with [SSD life](http://ssd-life.com/eng/download-ssdlife.html)
+- Yo can free some space on windows by disbale hibernation `powercfg.exe /hibernate off` or even disbale swap when you gem more than 8Gb of ram
 
 
+
+# Screenshots SSD LIFE
+![SSD LIFE my](https://github.com/Usernameisalreadytaken5/SSDTWB/blob/master/SSDLIFE.png)
+
+# Screenshots Crystal Disk info
 
 
 
