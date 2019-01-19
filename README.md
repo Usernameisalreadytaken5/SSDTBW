@@ -11,7 +11,7 @@
 | `KINGSTON SSD Now  V300` | 3D NAND |  64TBW  |  128TBW  |  256TBW | --  | [HTML](https://www.kingston.com/datasheets/sv300s3_us.pdf) | 3-years  |-- |
 | `Sandisk Ultra 3D` | 3D NAND |  -- |  100TBW  |  200TBW | 400 TBW  | [HTML](https://www.sandisk.com/home/ssd/ultra-3d-ssd) | 3-years  |-- |
 | `Crucial BX500` | 3D NAND |  40TBW |  80TBW  |  120TBW | 240 TBW  | [HTML](https://www.crucial.com/usa/en/storage-ssd-comparison) | 3-years  |-- |
-| `Kingston 120GB SSD A400` | TLC | 40TBW  | 80TBW   | 160TBW   |  300TBW  | [PDF](https://www.kingston.com/datasheets/SA400S37_us.pdf) | 3-years  |-- |
+| `Kingston A400 SSD ` | TLC | 40TBW  | 80TBW   | 160TBW   |  300TBW  | [PDF](https://www.kingston.com/datasheets/SA400S37_us.pdf) | 3-years  |-- |
 | `SanDisk SSD Plus` | TLC |  40TWB?*1 | *1 |  *1 | *1  | [HTML](http://webcache.googleusercontent.com/search?client=firefox-b&q=cache%3Ahttps%3A%2F%2Fus.hardware.info%2Fproduct%2F417369%2Fsandisk-ssd-plus-tlc-120gb%2Fspecifications) | 3-years  |-- |
 
 
