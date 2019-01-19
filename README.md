@@ -10,7 +10,9 @@
 | `Crucial BX500` | 3D NAND |  40TBW |  80TBW  |  120TBW | 240 TBW  | [HTML](https://www.crucial.com/usa/en/storage-ssd-comparison) | 3-years  |-- |
 | `Adata Ultimate SU650` | 3D NAND |  70TBW |  140TBW  |  280TBW | ---  | [PDF](https://www.adata.com/upload/downloadfile/Datasheet%20-%20Ultimate%20SU650_EN_20170908.pdf) | 3-years  |-- |
 | `Sandisk Ultra 3D` | 3D NAND |  -- |  100TBW  |  200TBW | 400 TBW  | [HTML](https://www.sandisk.com/home/ssd/ultra-3d-ssd) | 3-years  |-- |
+| `SanDisk SSD Plus` | TLC |  -- | 40TWB?*1 |  *1 | *1  | [HTML](http://webcache.googleusercontent.com/search?client=firefox-b&q=cache%3Ahttps%3A%2F%2Fus.hardware.info%2Fproduct%2F417369%2Fsandisk-ssd-plus-tlc-120gb%2Fspecifications) | 3-years  |-- |
 
+*1 - hard to find even on: [official forum](https://forums.sandisk.com/t5/SanDisk-SSD-Plus/TBW/td-p/367680) 
 
 
 
