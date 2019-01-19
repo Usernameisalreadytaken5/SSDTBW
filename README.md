@@ -27,7 +27,11 @@
 # Screenshots SSD LIFE
 ![SSD LIFE my](https://github.com/Usernameisalreadytaken5/SSDTWB/blob/master/SSDLIFE.png)
 
-# Screenshots Crystal Disk info
+# Screenshots Crystal Disk info ADATA SU800
+![ADATA SU800](https://github.com/Usernameisalreadytaken5/SSDTWB/blob/master/ADATA%20SU800.png)
+
+# Screenshots Crystal Disk SanDiskSSDPlus240GB
+![SanDiskSSDPlus240GB](https://github.com/Usernameisalreadytaken5/SSDTWB/blob/master/SanDiskSSDPlus240GB.png)
 
 
 
