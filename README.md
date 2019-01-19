@@ -21,7 +21,7 @@
 # To do with new SSD
 - Download [Discmark](http://crystalmark.info/en/download/#h2) and write test data 32GiB some of them crash afert write some data to disk, you do this at your own risk.
 - Download [discinfo](http://crystalmark.info/en/download/) and monitor "Total NAND Write" some SSD has only "Total Host write"
-- You can monitor SSD live with [SSD life](http://ssd-life.com/eng/download-ssdlife.html)
+- You can monitor SSD life with [SSD life](http://ssd-life.com/eng/download-ssdlife.html)
 - Yo can free some space on windows by disbale hibernation `powercfg.exe /hibernate off` or even disbale swap when you get more than 8Gb of RAM
 
 
