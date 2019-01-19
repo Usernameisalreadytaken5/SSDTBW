@@ -12,7 +12,7 @@
 | `Sandisk Ultra 3D` | 3D NAND |  -- |  100TBW  |  200TBW | 400 TBW  | [HTML](https://www.sandisk.com/home/ssd/ultra-3d-ssd) | 3-years  |-- |
 | `SanDisk SSD Plus` | TLC |  -- | 40TWB?*1 |  *1 | *1  | [HTML](http://webcache.googleusercontent.com/search?client=firefox-b&q=cache%3Ahttps%3A%2F%2Fus.hardware.info%2Fproduct%2F417369%2Fsandisk-ssd-plus-tlc-120gb%2Fspecifications) | 3-years  |-- |
 
-*1 - hard to find even on: [official forum](https://forums.sandisk.com/t5/SanDisk-SSD-Plus/TBW/td-p/367680) :: type this in google to get some spec cache:https://us.hardware.info/product/417369/sandisk-ssd-plus-tlc-120gb/specifications
+*1 - hard to find even on: [official forum](https://forums.sandisk.com/t5/SanDisk-SSD-Plus/TBW/td-p/367680) :: type this in google to get some spec include TBW `cache:https://us.hardware.info/product/417369/sandisk-ssd-plus-tlc-120gb/specifications`
 
 
 
