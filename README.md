@@ -20,17 +20,17 @@
 - Download [Discmark](http://crystalmark.info/en/download/#h2) and write test data 32GiB some of them crash afert write some data to disk, you do this at your own risk.
 - Download [discinfo](http://crystalmark.info/en/download/) and monitor "Total NAND Write" some SSD has only "Total Host write"
 - You can monitor SSD live with [SSD life](http://ssd-life.com/eng/download-ssdlife.html)
-- Yo can free some space on windows by disbale hibernation `powercfg.exe /hibernate off` or even disbale swap when you gem more than 8Gb of ram
+- Yo can free some space on windows by disbale hibernation `powercfg.exe /hibernate off` or even disbale swap when you get more than 8Gb of RAM
 
 
 
-# Screenshots SSD LIFE
+### Screenshots SSD LIFE
 ![SSD LIFE my](https://github.com/Usernameisalreadytaken5/SSDTWB/blob/master/SSDLIFE.png)
 
-# Screenshots Crystal Disk info ADATA SU800
+### Screenshots Crystal Disk info ADATA SU800
 ![ADATA SU800](https://github.com/Usernameisalreadytaken5/SSDTWB/blob/master/ADATA%20SU800.png)
 
-# Screenshots Crystal Disk SanDiskSSDPlus240GB
+### Screenshots Crystal Disk SanDiskSSDPlus240GB
 ![SanDiskSSDPlus240GB](https://github.com/Usernameisalreadytaken5/SSDTWB/blob/master/SanDiskSSDPlus240GB.png)
 
 
