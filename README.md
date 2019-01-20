@@ -41,6 +41,10 @@ This is my 3 years Crucial on Windows 7 10TB writen only
 
 ![SSD LIFE my](https://github.com/Usernameisalreadytaken5/SSDTWB/blob/master/SSDLIFE.png)
 
+### SSD Sandisk 480GB -- no info and Sandisk SSD dashboard no detecting drive ? 
+![ADATA SU800](https://github.com/Usernameisalreadytaken5/SSDTWB/blob/master/SSD%20PLUS%20480GB%20no%20info.png)
+
+
 ### Screenshots Crystal Disk info ADATA SU800
 ![ADATA SU800](https://github.com/Usernameisalreadytaken5/SSDTWB/blob/master/ADATA%20SU800.png)
 
