@@ -34,7 +34,7 @@
 
 
 ### Screenshots SSD LIFE
-This is my 3 years Crucial on Windows 7
+This is my 3 years Crucial on Windows 7 10TB writen only
 - disabled swap, hibernation
 - Firefox cache on RamDisk 300MB
 - half os space free, download dir on SD card, games and other big files on HDD
