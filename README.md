@@ -51,7 +51,8 @@ This is my 3 years Crucial on Windows 7 10TB writen only
 ### Screenshots Crystal Disk SanDiskSSDPlus240GB
 ![SanDiskSSDPlus240GB](https://github.com/Usernameisalreadytaken5/SSDTWB/blob/master/SanDiskSSDPlus240GB.png)
 
-### 150TB and its start to die();
+### 150TB and its broken now
+#### 32768 kilobytes unit size don\t know "how" i do this should be default 4k not 32MB
 ![SanDiskSSD](https://github.com/Usernameisalreadytaken5/SSDTWB/blob/master/anditsstarttodie.png)
 
 
